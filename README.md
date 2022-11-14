@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=physcosesei-og&label=Profile%20views&color=0e75b6&style=flat" alt="physcosesei-og" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=physcosesei-OG" alt="physcosensei-OG" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=physcosesei" alt="physcosensei" /></a> </p>
 
 - 🔭 I’m currently working on **Telegram Bots**
 
@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=physcosesei-og&show_icons=true&locale=en&layout=compact" alt="physcosesei-og" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=physcosesei-og&show_icons=true&locale=en" alt="physcosesei-OG" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=physcosesei-og&show_icons=true&locale=en" alt="physcosesei" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=physcosesei-og&" alt="physcosesei-OG" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=physcosesei-og&" alt="physcosesei" /></p>
