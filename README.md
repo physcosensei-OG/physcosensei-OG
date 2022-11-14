@@ -1,4 +1,4 @@
-[![MasterHead](https://w0.peakpx.com/wallpaper/42/991/HD-wallpaper-anime-boy-night-thumbnail.jpg)]
+[![MasterHead](https://i.pinimg.com/originals/8c/3d/19/8c3d19d72075c06a391e89de5b6f9c09.gif)
 <h1 align="center">Yo ✌️, I'm Physco Sensei</h1>
 <h3 align="center">I'm a student who is revolving😎</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/d1eac551cde1fa32c195995f669d15c4/tumblr_ph0k88R9XQ1xggw0so1_500.gif"
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/physco_sensei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="physco_sensei" height="30" width="40" /></a>
+<a href="https://instagram.com/physcosensei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="physco_sensei" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
