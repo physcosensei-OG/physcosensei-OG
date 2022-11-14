@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=physcosesei-og&show_icons=true&locale=en&layout=compact" alt="physcosenseiii-og" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=physcosesei-og&show_icons=true&locale=en" alt="physcosenseiii" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=physcosenseiii-og&show_icons=true&locale=en" alt="physcosenseiii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=physcosesei-og&" alt="physcosesei" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=physcosenseiii-og&" alt="physcosenseiii" /></p>
